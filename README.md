@@ -7,7 +7,7 @@ ewasserman@chapman.edu
 I am using a late day for this assignment. It's more than a day late because I was waiting for a response on Discord.
 
 References:
-  1. Worked with Aubrey Sine on Code Structure
+  1. Worked with Aubrey Sine on Code Structure and delete implementation
   2. https://stackoverflow.com/questions/24102157/seeking-an-exit-equivalent-in-swift
   3. Book Chapter 3 - 14
 
