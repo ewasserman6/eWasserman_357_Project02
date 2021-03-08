@@ -14,3 +14,4 @@ References:
 To do:
   1. Read files in correctly. This way I won't need to hardcode some passwords
   2. Get the decrypt function working. My encrypt is working but I can't implement it without having a working decrypt
+  3. File loading to work correctly 
